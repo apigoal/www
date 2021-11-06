@@ -1,5 +1,7 @@
 # [www.apigoal.com](https://www.apigoal.com/#/)
 
+* helps you with the long-term maintenance of a project.
+
 rozwiązanie do szybkiej reaizacji zadań w projekcie, niezależnie od platformy
 każde zadanie developerskie jest realizowane na jego urządzeniu,
 Dlatego budowanie i testowanie przeprowadza u siebie i musi mieć dostępne sprawdzone srodowisko
